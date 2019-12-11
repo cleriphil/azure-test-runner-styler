@@ -2,7 +2,7 @@
 
 When this code is pasted into Chrome dev console, the parameter values in the Azure DevOps testrunner will appear in red. Those dynamic parameter values will no longer be lost in a sea of text. 
 
-##Usage
+## Usage
 1. In Azure DevOps (Visual Studio Team Services) > Test Plans >  Any test suite, select test cases and click 'Run for web application'. 
 The test runner window should open. 
 
